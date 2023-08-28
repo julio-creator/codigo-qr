@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="main.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap" rel="stylesheet">
+    <title>Codigo QR</title>
+  </head>
+  <body>
+    <main class="contenedor">
+      <div class="fondo_blanco">
+        <img src="imagenes/image-qr-code.png" alt="imagen de un codigo QR" />
+        <h1>Improve your front-end <span> skills by building proyects</span></h1>
+        <p>Scan the QR code to visit Frontend <span> Mentor and take your coding skill to</span> the next level</p>
+      </div>
+    </main>
+  </body>
+</html>
